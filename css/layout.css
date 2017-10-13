@@ -47,12 +47,6 @@
   margin: 0%
 }
 
-.clear-fix:after {
-  content: ".";
-  clear: both;
-  display: block;
-}
-
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
