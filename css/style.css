@@ -21,7 +21,7 @@ body {
 	background: url(../images/handmadepaper.png);
 }
 
-h2 {
+h2.milk_text {
 	margin-bottom: 5px;
   margin-top: 20px;
 }
